@@ -1,4 +1,4 @@
-# Flappy AI (Pygame)
+# Flappy AI
 
 A simple **Flappy Bird–style** project built with Python and Pygame.  
 Pipes spawn at random heights and slide left; the bird (a black circle) auto-flaps to survive as long as possible.
@@ -23,8 +23,8 @@ Pipes spawn at random heights and slide left; the bird (a black circle) auto-fla
 
 1) Clone the repo:
 ```bash
-git clone https://github.com/your-username/flappy-ai.git
-cd flappy-ai
+git clone https://github.com/vickerkhof/flappy-bird-automated-project-3.git
+cd flappy-bird
 ```
 
 2) Install dependencies:
@@ -46,7 +46,7 @@ python flappy.py
 .
 ├─ flappy.py          # main game file (your script)
 ├─ README.md          # this file
-└─ LICENCE.md         # the MIT licence
+└─ LICENCE            # the MIT licence
 ```
 
 ---
